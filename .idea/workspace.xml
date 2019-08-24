@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c6076b2-e1b1-48ca-bca4-597499ccc13a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1MfnQztCopP6MYnMNiMfh5PTcAs" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../machinesells" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ci4\public\css" />
+      <recent name="C:\xampp\htdocs\ci4\public\images" />
+      <recent name="C:\xampp\htdocs\ci4\public\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ci4\app\Models" />
+      <recent name="C:\xampp\htdocs\ci4\public\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ci4" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.ci4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c6076b2-e1b1-48ca-bca4-597499ccc13a" name="Default" comment="" />
+      <created>1553707029028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553707029028</updated>
+      <workItem from="1553707031078" duration="110000" />
+      <workItem from="1553707221730" duration="32000" />
+      <workItem from="1553707254622" duration="2033000" />
+      <workItem from="1553955825462" duration="1931000" />
+      <workItem from="1553966883581" duration="613000" />
+      <workItem from="1554045544413" duration="204000" />
+      <workItem from="1554638364912" duration="134000" />
+      <workItem from="1555945922421" duration="1421000" />
+      <workItem from="1556299944175" duration="16000" />
+      <workItem from="1556721275578" duration="4982000" />
+      <workItem from="1556965885102" duration="1031000" />
+      <workItem from="1556973489685" duration="10000" />
+      <workItem from="1557554371383" duration="615000" />
+      <workItem from="1558184140015" duration="599000" />
+      <workItem from="1558262218382" duration="68000" />
+      <workItem from="1558262624289" duration="481000" />
+      <workItem from="1558277964820" duration="1000" />
+      <workItem from="1558278161288" duration="4028000" />
+      <workItem from="1558811166039" duration="719000" />
+      <workItem from="1558869335859" duration="3977000" />
+      <workItem from="1558888663711" duration="14815000" />
+      <workItem from="1558976404705" duration="13273000" />
+      <workItem from="1560584509957" duration="10557000" />
+      <workItem from="1562416932795" duration="2971000" />
+      <workItem from="1563101779600" duration="6049000" />
+      <workItem from="1563169661029" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

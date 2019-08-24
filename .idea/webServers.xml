@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c560793b-4a2d-4282-b902-041566ef889e" name="m4pakistan.com" url="http://im4pakistan.com">
+        <fileTransfer host="im4pakistan.com" port="21">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1fdaea49-978c-4126-950c-2a159ad49cee" name="Pakina" url="http://pakinatechnologies.com">
+        <fileTransfer host="pakinatechnologies.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
