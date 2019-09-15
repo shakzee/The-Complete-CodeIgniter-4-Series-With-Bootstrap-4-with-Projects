@@ -2,7 +2,7 @@
 This is the Complete Source code of "The Complete CodeIgniter 4 Series With Bootstrap 4+Projects" course.
 
 ## How can you learn..?
-You can leran the Codeigniter 4 Sereis with Bootstrap 4 for the the official website of the shakzee (https://www.shakzee.com/courses/the-complete-codeigniter-4-series-with-bootstrap-4projects/)
+You can learn the Codeigniter 4 Series with Bootstrap 4 for the official website of the shakzee (https://www.shakzee.com/courses/the-complete-codeigniter-4-series-with-bootstrap-4projects/)
 
 
 ## Course Detail.
